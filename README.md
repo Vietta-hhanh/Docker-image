@@ -2,6 +2,7 @@
 В директории What's behind this? представлено полное описание поставленной задачи проекта, тонкости реализации и условия выполнения.
 
 Перед запуском нужно предварительно установить: Docker. Приведу вариант установки для MacOS через HomeBrew:
+
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)" - установка HomeBrew
 
 brew cask install docker - установка Docker
