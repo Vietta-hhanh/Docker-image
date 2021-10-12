@@ -4,9 +4,7 @@
 Перед запуском нужно предварительно установить: Docker. Приведу вариант установки для MacOS через HomeBrew:
 
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)" - установка HomeBrew
-
 brew cask install docker - установка Docker
-
 Если возникла необходимость в альтернативном варианте установки:
 Инструкция по установке Docker для всех платформ: https://docs.docker.com/desktop/
 
