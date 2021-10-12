@@ -14,3 +14,4 @@ brew cask install docker - установка Docker
 127.0.0.1 - Индексация
 127.0.0.1/wordpress - установка WordPress
 127.0.0.1/phpmyadmin - вход в PhpMyAdmin (логин: hhanh, пароль: hhanh)
+docker stop $(docker ps -q) - остановить все запущенные контейнеры
